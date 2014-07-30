@@ -1,6 +1,6 @@
 Keypress
 ========
-Version 2.0.2
+Version 2.0.3
 
 Keypress is a robust keyboard input capturing Javascript utility
 focused on input for games. For details and documentation, please
@@ -12,6 +12,10 @@ released under the Apache License, version 2.0
 
 **What's new**
 ---------------
+
+2.0.4
+
+* Fixed compatibility for '-'/'_' and '='/'+' keys in FireFox. Thanks to [simonsarris](https://github.com/simonsarris) for spotting the bug. [Issue #50](https://github.com/dmauro/Keypress/issues/50)
 
 2.03
 
